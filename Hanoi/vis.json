@@ -1,0 +1,325 @@
+{
+"visualization":[
+{
+    "time": 0,
+    "elements": [
+        {
+            "id": "discvis-1-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "10",
+            "y": "10",
+            "z": "0",
+            "height": "40",
+            "width": "40",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-2-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "10",
+            "y": "50",
+            "z": "0",
+            "height": "40",
+            "width": "80",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-3-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "10",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "120",
+            "rotation": "0",
+            "color": "red"
+        }
+    ]
+},{
+    "time": 1,
+    "elements": [
+        {
+            "id": "discvis-1-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "330",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "40",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-2-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "10",
+            "y": "50",
+            "z": "0",
+            "height": "40",
+            "width": "80",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-3-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "10",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "120",
+            "rotation": "0",
+            "color": "red"
+        }
+    ]
+},{
+    "time": 2,
+    "elements": [
+        {
+            "id": "discvis-1-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "330",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "40",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-2-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "170",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "80",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-3-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "10",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "120",
+            "rotation": "0",
+            "color": "red"
+        }
+    ]
+},{
+    "time": 3,
+    "elements": [
+        {
+            "id": "discvis-1-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "170",
+            "y": "50",
+            "z": "0",
+            "height": "40",
+            "width": "40",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-2-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "170",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "80",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-3-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "10",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "120",
+            "rotation": "0",
+            "color": "red"
+        }
+    ]
+},{
+    "time": 4,
+    "elements": [
+        {
+            "id": "discvis-1-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "170",
+            "y": "50",
+            "z": "0",
+            "height": "40",
+            "width": "40",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-2-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "170",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "80",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-3-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "330",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "120",
+            "rotation": "0",
+            "color": "red"
+        }
+    ]
+},{
+    "time": 5,
+    "elements": [
+        {
+            "id": "discvis-1-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "10",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "40",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-2-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "170",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "80",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-3-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "330",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "120",
+            "rotation": "0",
+            "color": "red"
+        }
+    ]
+},{
+    "time": 6,
+    "elements": [
+        {
+            "id": "discvis-1-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "10",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "40",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-2-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "330",
+            "y": "50",
+            "z": "0",
+            "height": "40",
+            "width": "80",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-3-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "330",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "120",
+            "rotation": "0",
+            "color": "red"
+        }
+    ]
+},{
+    "time": 7,
+    "elements": [
+        {
+            "id": "discvis-1-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "330",
+            "y": "10",
+            "z": "0",
+            "height": "40",
+            "width": "40",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-2-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "330",
+            "y": "50",
+            "z": "0",
+            "height": "40",
+            "width": "80",
+            "rotation": "0",
+            "color": "red"
+        },
+        {
+            "id": "discvis-3-",
+            "visible": "true",
+            "shape": "rect",
+            "x": "330",
+            "y": "90",
+            "z": "0",
+            "height": "40",
+            "width": "120",
+            "rotation": "0",
+            "color": "red"
+        }
+    ]
+}
+]
+}
