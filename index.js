@@ -119,6 +119,7 @@ function drawNewLine(svgEl, element){
 }
 
 function updateLine(element){
+    return
     var x1 = parseFloat(element.x1);
     var y1 = parseFloat(element.y1);
     var x2 = parseFloat(element.x2);
